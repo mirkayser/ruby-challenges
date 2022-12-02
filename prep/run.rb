@@ -12,13 +12,3 @@ class A
     x - y
   end
 end
-
-
-# a = A.new
-# puts a.add(3,5)
-# puts a.subtract(3,5)
-
-# start a REPL session
-# binding.pry
-
-# program resumes here (after pry session)
